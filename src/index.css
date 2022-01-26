@@ -5,6 +5,9 @@
   color: #393c41;
   box-sizing: border-box;
 }
+a{
+  text-decoration: none;
+}
 
 body{
   width: 100%;
