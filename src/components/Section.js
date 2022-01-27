@@ -45,6 +45,8 @@ const Wrap = styled.div`
   justify-content: space-between; 
   align-items: center;
   background-image: ${props => `url("/images/${props.bgImage}")`}
+
+  z-index: -1;
 `;
 
 const ItemText = styled.div`
